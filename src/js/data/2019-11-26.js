@@ -71,4 +71,70 @@ dataSet[dataSetVersion].characterData = [
     opts: {
     }
   },
+  {
+    name: "카림 알 아짐",
+    img: "h0QcGZh.png",
+    opts: {
+    }
+  },
+  {
+    name: "쟈밀 바이퍼",
+    img: "CTYlAic.png",
+    opts: {
+    }
+  },
+  {
+    name: "빌 셴하이트",
+    img: "DWFQXyd.png",
+    opts: {
+    }
+  },
+  {
+    name: "루크 헌트",
+    img: "O758mz9.png",
+    opts: {
+    }
+  },
+  {
+    name: "에펠 펠미에",
+    img: "SmOhAKe.png",
+    opts: {
+    }
+  },
+  {
+    name: "이데아 슈라우드",
+    img: "0PFcy2D.png",
+    opts: {
+    }
+  },
+  {
+    name: "오르토 슈라우드",
+    img: "4pmNjOH.png",
+    opts: {
+    }
+  },
+  {
+    name: "말레우스 드라코니아",
+    img: "p1wW5Dy.png",
+    opts: {
+    }
+  },
+  {
+    name: "릴리아 반루즈",
+    img: "ULaXxf3.png",
+    opts: {
+    }
+  },
+  {
+    name: "세벡 지그볼트",
+    img: "olXX4vn.png",
+    opts: {
+    }
+  },
+  {
+    name: "실버",
+    img: "BBYPVgh.png",
+    opts: {
+    }
+  },
 ];
